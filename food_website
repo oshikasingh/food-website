@@ -1,0 +1,215 @@
+<!doctype html>
+<html>
+  <head>
+<link href="New folder\css\all" rel="stylesheet">
+    <title>IIIT Kota</title>
+<style>
+.end{
+background-color:#3EEEF3 ;
+color:white;
+}
+.twitter{
+align:center;
+color:white;
+}
+table{
+background-color:LightSalmon;
+border:3px solid red;
+border-collapse:collapse;
+}
+th,td{
+padding:8px;
+font-size:35px;
+}
+th{
+color:red;
+}
+body{
+background-color:yellow;
+}
+p{
+font-size:30px;
+font-family:'Ubuntu';
+line-height:1.5em;
+}
+#heading1{
+color: blue;
+ font-size: 67px;
+ text-align: center; 
+fontweight: bold;
+background-color:light blue;
+}
+.heading{
+color:Blue;
+font-size: 45px;
+line-height:0.0001em;
+}
+.btn{
+font-size:20px;
+backgroundb-color:beige;
+padding:8px;
+cursor:pointer;
+}
+.navbar{
+background-color:tomato;
+}
+.navbar ul{
+overflow:auto;
+}
+.navbar li{
+font-size:35px;
+float:left;
+list-style:none;
+padding-left:60px ;
+padding-right:60px;
+}
+.box{
+background-color:PapayaWhip;
+display:inline-block;
+border:5px solid IndianRed;
+border-radius:20px;
+width:370px;
+height:200px;
+margin:2px;
+}
+#box1{
+color:red;
+text-align:center;
+display:inline-block;
+padding:20px;
+}
+#box2{
+text-align:center;
+color:red;
+display:inline-block;
+padding:20px;
+}
+#box3{
+text-align:center;
+color:red;
+display:inline-block;
+padding:20px;
+}
+.boxx{
+padding-left:78px;
+padding-right:78px;
+padding-top:30px;
+padding-bottom:30px;
+
+
+}
+
+</style>
+</head>
+<body>
+<h1 id="heading1">INDIAN RESTRO</h1>
+<center>
+<hr>
+<nav class="navbar">
+<ul>
+<li>Home</li>
+<li>Food</li>
+<li>Previous Orders</li>
+<li>Best Sellers</li>
+<li>Profile</li>
+</ul>
+</center>
+<br>
+<img src="https://www.rewardsnetwork.com/wp-content/uploads/2016/12/IndianFood_Main.jpg" alt="description"  width="1500" height="500">
+
+<center>
+<h1 >Welocome to Indian Restro</h1>
+</center>
+</body>
+<center>
+<button class="btn">Order Now</button>
+</center>
+<br>
+<table align="center">
+<thead>
+<tr>
+<th>DISH</th>
+<th>PRICE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pav Bhaji</td>
+<td>RS. 200</td>
+
+</tr>
+<tr>
+<td>Spring Roll</td>
+<td>Rs. 180</td>
+
+</tr>
+<tr>
+<td>Paneer Tikka</td>
+<td>Rs. 300</td>
+
+</tr>
+<tr>
+<td>Dal Makhni</td>
+<td>Rs. 150</td>
+
+</tr>
+<tr>
+<td>Dhokla</td>
+<td>Rs. 120</td>
+
+</tr>
+
+</tbody>
+</table>
+<br>
+
+
+
+<h3 style="color:light blue; font-size: 50px; text-align: center; fontweight:bold; "> Desserts</h3>
+<table align="center">
+<thead>
+<tr>
+<th>DISH</th>
+<th>PRICE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rasgulla</td>
+<td>RS. 200</td>
+
+</tr>
+<tr>
+<td>Rasmalai</td>
+<td>Rs. 180</td>
+
+</tr>
+<tr>
+<td>Icecream</td>
+<td>Rs. 300</td>
+
+</tr>
+<tr>
+<td>Laddu</td>
+<td>Rs. 150</td>
+
+</tr>
+
+
+</tbody>
+</table>
+<br>
+<div class="end">
+<p>Indianrestro@gmail.com&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspcontact:0141-2715071&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+<ion-icon name="logo-twitter"></ion-icon>&nbsp&nbsp&nbsp&nbsp
+<ion-icon name="logo-facebook"></ion-icon>&nbsp&nbsp&nbsp&nbsp
+<ion-icon name="logo-instagram"></ion-icon>&nbsp&nbsp&nbsp&nbsp
+<ion-icon name="logo-linkedin"></ion-icon>&nbsp&nbsp&nbsp&nbsp
+<ion-icon name="logo-youtube"></ion-icon>&nbsp&nbsp&nbsp&nbsp
+<ion-icon name="logo-googleplus"></ion-icon>
+<ion-icon src="https://twitter.com/IIITKotaOffice?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"></ion-icon>
+</p>
+</div>
+</body>
+</html>
+
